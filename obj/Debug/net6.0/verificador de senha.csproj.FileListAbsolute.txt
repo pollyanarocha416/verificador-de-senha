@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\verificador de senha\bin\Debug\net6.0\verificador de senha.exe
+C:\Users\Usuário\Desktop\verificador de senha\bin\Debug\net6.0\verificador de senha.deps.json
+C:\Users\Usuário\Desktop\verificador de senha\bin\Debug\net6.0\verificador de senha.runtimeconfig.json
+C:\Users\Usuário\Desktop\verificador de senha\bin\Debug\net6.0\verificador de senha.dll
+C:\Users\Usuário\Desktop\verificador de senha\bin\Debug\net6.0\verificador de senha.pdb
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.dll
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\refint\verificador de senha.dll
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.pdb
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\verificador de senha.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\verificador de senha\obj\Debug\net6.0\ref\verificador de senha.dll
